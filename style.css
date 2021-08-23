@@ -1,0 +1,37 @@
+html,
+body {
+  background: #f7f9fb;
+}
+h2 {
+  color: #5397d4;
+  font-weight: 400;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 1rem;
+}
+.myText p{
+  color: #687864;
+    font-weight: 300;
+    font-size: 1.3rem;
+    line-height: 2;
+}
+
+#mainNav {
+ 
+  background-color: #e3f2fd;
+  font-weight:800; 
+  color: #1752DC
+}
+.mainPageImg {
+  opacity: 0.8;
+}
+
+.socialMedia{
+  /*color: #1752DC;*/
+  color: #5397d4;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-align: right;
+  padding: 2rem;
+  opacity: 0.8;
+}
