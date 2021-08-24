@@ -16,6 +16,11 @@ h2 {
     line-height: 2;
 }
 
+.VIText{
+    font-weight: 400;
+    color:#1752DC;
+
+}
 #mainNav {
  
   background-color: #e3f2fd;
@@ -24,6 +29,7 @@ h2 {
 }
 .mainPageImg {
   opacity: 0.8;
+
 }
 
 .socialMedia{
